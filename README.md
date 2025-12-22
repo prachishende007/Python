@@ -31,33 +31,46 @@ This repository contains a comprehensive collection of **Python fundamentals and
 ## 🗂️ Repository Structure
 
 ├── python_basics/
+
 │ ├── variables.py
+
 │ ├── loops.py
+
 │ ├── functions.py
+
 │ ├── oop.py
+
 │ └── file_handling.py
+
 │
+
 ├── libraries/
+
 │ ├── numpy_basics.py
+
 │ ├── pandas_basics.py
+
 │ ├── matplotlib_basics.py
+
 │ ├── seaborn_basics.py
+
 │ └── scipy_basics.py
+
 │
+
 └── README.md
 
 
 ---
 
 ## 🚀 How to Use
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-basics-libraries.git
+    git clone https://github.com/your-username/python-basics-libraries.git
    ```
 2.Navigate to the project directory:
   ```bash
-  cd python-basics-libraries
+   cd python-basics-libraries
   ```
 3.Run any Python file:
 ```bash
